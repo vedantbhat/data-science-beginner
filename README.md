@@ -1,2 +1,2 @@
-# data-science-beginner
-Repository for Beginner data science codes
+# Data Science Beginner projects:
+- IRIS dataset: Predict the flower class based on available attributes.
